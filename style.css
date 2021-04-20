@@ -1,0 +1,30 @@
+body {
+	background-color: #C0BAA5;
+}
+html {
+    font-family: Arial, sans-serif;
+}
+input {
+	width: 250px;
+	text-align: center;
+}
+button {
+	border-color:#D3532F;
+	background-color:#D3532F;
+	color: white;
+	width: 250px;
+}
+form {
+	text-align: center;
+}
+#duckSearch{
+	text-align: center;
+	margin: auto;
+}
+#banner {
+	text-align: center;
+}
+#wrapper{
+	width: 80%;
+	margin: auto;
+}
