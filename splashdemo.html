@@ -4,31 +4,30 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Splash Page Demo</title>
+<title>ARNG Splash Page Demo</title>
 <link rel="stylesheet" type="text/css" href="./style.css" />
 </head>
-
-<body>
 <header>
-  <div id="banner" class=""> <img src="./ARNG.png" alt="ARNG Logo" width="125" id="bannerImg" /> </div>
+  <div id="banner" class=""><img src="./ARNG.png" alt="ARNG Logo" width="125" id="bannerImg" /></div>
+  <!------------- Start DuckDuckGo Search ----------------------->
+  <div id="duckSearch">
+    <form id="duckduckgo" method="get" action="https://www.duckduckgo.com/">
+      <input type="text" name="q" id="searchValue" maxlength="255" value=" Search DuckDuckGo..." onfocus="this.value=''" onblur="this.value='Search DuckDuckGo...'" />
+      <br>
+      <button type="submit">SEARCH</button>
+    </form>
+  </div>
+  <!------------- End DuckDuckGo Search ------------------------>
 </header>
-<!------------- Start Google Search ----------------------->
-<div id="duckSearch">
-  <form id="duckduckgo" method="get" action="https://www.duckduckgo.com/">
-    <input type="text" name="q" id="searchValue" maxlength="255" value=" Search DuckDuckGo..." onfocus="this.value=''" onblur="this.value='Search DuckDuckGo...'" /><br>
-    <button type="submit">SEARCH</button>
-  </form>
-</div>
-<!------------- End DuckDuckGo Search ------------------------>
+<body>
 <!------ This is the main link list on the page ------>
 <div id="wrapper">
   <ul>
     <li><a href="https://dodtelework.sharepoint.com/sites/CVRHub">Commercial Virtual Remote Environment</a></li>
-    <li><a href="https://dod.teams.Microsoft.us">O365</a></li>
+    <li><a href="https://dod.teams.Microsoft.us">Microsoft Office 365 (O365)</a></li>
     <li><a href="https://adpaas.army.mil">Army Disaster Personnel Accountability &#38 Assessment System (ADPAAS)</a></li>
     <li><a href="https://ataaps.csd.disa.mil/ataaps_AR11/">ATAAPS (Automated Time and Attendance Production System)</a></li>
     <li><a href="https://www.atrrs.army.mil">ATRRS</a></li>
-    <!--<li><a href="https://www.dmdc.osd.mil/rsl">DEERS ID Card Facilities</a></li>-->
     <li><a href="https://mobcop.aoc.army.pentagon.mil/MOBCOPPortal/UI/Login.aspx">DAMPS (Orders Input - Funds Management)</a></li>
     <li><a href="https://arngg1.ngb.army.mil/Portal/Default.aspx">DPRO</a></li>
     <li><a href="https://dtms.army.mil/">DTMS - Digital Training Management System</a></li>
@@ -47,4 +46,6 @@
   </ul>
 </div>
 </body>
+<footer><span>Designed by the Army National Guard IT Governance and Strategic Communications Branch (ARNG-IMS-S)<br>
+  Want to know more?  Read the<a href="./whitepaper.pdf">whitepaper</a>for our splash page concept.</span></footer>
 </html>

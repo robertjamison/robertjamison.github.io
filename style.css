@@ -1,11 +1,42 @@
-body {
-	background-color: #C0BAA5;
+@font-face {
+font-family: "Jetbrains Mono";
+src: url("./JetBrainsMono-ExtraBold.woff2") format("woff");
 }
+
 html {
-    font-family: Arial, sans-serif;
+	background-color: #121212;
+}
+body {
+	margin: auto;
+	font-family: "Jetbrains Mono", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+	font-weight: 800;
+	text-transform: uppercase;
+	padding-bottom: 50px;
+}
+header, footer {
+	background-color: #C0BAA5;
+	padding: 10px;
+	text-align: center;
+	font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+footer {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+}
+
+#banner {
+	text-align: center;
+}
+#wrapper{
+	width: 80%;
+	max-width: 800px;
+	margin: auto;
+	padding-top: 10px;
 }
 input {
-	width: 250px;
+	width: 246px;
 	text-align: center;
 }
 button {
@@ -13,18 +44,30 @@ button {
 	background-color:#D3532F;
 	color: white;
 	width: 250px;
+	text-align: center;
+}
+ul {
+	list-style: none;
+	line-height: 200%;
+}
+li {
+	list-style-position: inside;
+}
+a {
+	text-decoration-line: none;
+	color: #fefefe;
+}
+a:hover {
+	color: #FFD530;
+}
+a:active, a:visited {
+	background-color: #FFD530;
+	color: #121212;
 }
 form {
 	text-align: center;
 }
 #duckSearch{
 	text-align: center;
-	margin: auto;
-}
-#banner {
-	text-align: center;
-}
-#wrapper{
-	width: 80%;
 	margin: auto;
 }
