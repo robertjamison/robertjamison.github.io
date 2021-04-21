@@ -72,7 +72,7 @@ li a {
 li a:hover {
 	color: #FFD530;
 }
-a:active, a:visited {
+li a:active, li a:visited {
 	background-color: #FFD530;
 	color: #121212;
 }
