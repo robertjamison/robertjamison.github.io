@@ -2,13 +2,14 @@
 font-family: "Jetbrains Mono";
 src: url("./JetBrainsMono-ExtraBold.woff2") format("woff");
 }
-
+input, button, body {
+	font-family: "Jetbrains Mono", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
 html {
 	background-color: #121212;
 }
 body {
 	margin: auto;
-	font-family: "Jetbrains Mono", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 	font-weight: 800;
 	text-transform: uppercase;
 	padding-bottom: 50px;
@@ -17,13 +18,17 @@ header, footer {
 	background-color: #C0BAA5;
 	padding: 10px;
 	text-align: center;
-	font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 footer {
 	position: fixed;
 	bottom: 0px;
 	left: 0px;
 	width: 100%;
+	text-transform: none;
+	font-family: Arial, sans-serif;
+	font-weight: 100;
+	color: #333333;
+	font-size: .8em;
 }
 
 #banner {
@@ -36,15 +41,22 @@ footer {
 	padding-top: 10px;
 }
 input {
-	width: 246px;
-	text-align: center;
+	width: 250px;
+	text-align: left;
+	padding: 5px;
+	box-sizing:border-box;
+	border: 2px solid #121212;
+	resize: none;
+	
 }
-button {
-	border-color:#D3532F;
+.button {
+	border: none;
 	background-color:#D3532F;
 	color: white;
-	width: 250px;
+	width: auto;
 	text-align: center;
+	margin: 4px 2px;
+	padding: 7px 14px;
 }
 ul {
 	list-style: none;
@@ -53,16 +65,21 @@ ul {
 li {
 	list-style-position: inside;
 }
-a {
+li a {
 	text-decoration-line: none;
 	color: #fefefe;
 }
-a:hover {
+li a:hover {
 	color: #FFD530;
 }
 a:active, a:visited {
 	background-color: #FFD530;
 	color: #121212;
+}
+a {
+	color: #333333;
+	text-decoration-line: underline;
+	text-decoration-style: dotted;
 }
 form {
 	text-align: center;
