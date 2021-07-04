@@ -69,7 +69,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://onlydata.us"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa fa-linkedin-square"
       url: "https://linkedin.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -77,6 +77,9 @@ author:
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa fa-linkedin-square"
+      url: "https://linkedin.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/robertjamison"
