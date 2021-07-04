@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Robert Jamison"
-  avatar : "/assets/images/bio-photo.jpeg"
+  avatar : "/assets/images/rjamison.jpeg"
   bio    : >- # this means to ignore newlines until "baseurl:"
     With over 14 years of Signal and Cyber experience in the 
     Army National Guard, Robert is currently one of the lead 
@@ -70,7 +70,7 @@ author:
       url: "https://onlydata.us"
     - label: "LinkedIn"
       icon: "fab fa fa-linkedin-square"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/robertgjamison"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/robertjamison"
@@ -79,7 +79,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa fa-linkedin-square"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/robertgjamison"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/robertjamison"
