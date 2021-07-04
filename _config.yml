@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: OnlyData :us:
+title: OnlyData
 email: robert.jamison2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   If you're looking for a reliable US-based source on "just the data",
@@ -65,11 +65,11 @@ author:
     Army National Guard, Robert is currently one of the lead 
     writers for Strategic I.T. Policy at the National Guard Bureau.
   links:
-    - label: "OnlyData :us:"
+    - label: "OnlyData"
       icon: "fas fa-fw fa-link"
       url: "https://onlydata.us"
     - label: "LinkedIn"
-      icon: "fab fa fa-linkedin-square"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/robertgjamison"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -78,7 +78,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa fa-linkedin-square"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/robertgjamison"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
