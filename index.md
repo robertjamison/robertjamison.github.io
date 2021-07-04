@@ -1,2 +1,2 @@
-## Welcome to my test page
-All are invited to visit.
+## Finally
+A site where you know what you are getting.
