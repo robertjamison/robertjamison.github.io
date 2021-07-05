@@ -65,8 +65,8 @@ author:
     Army National Guard, Robert is currently one of the lead 
     writers for Strategic I.T. Policy at the National Guard Bureau.
   links:
-    - label: "Email🇸"
-      icon: "fas fa-at"
+    - label: "Email"
+      icon: "fas fa-fw fa-at"
       url: "robert.jamison2@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
