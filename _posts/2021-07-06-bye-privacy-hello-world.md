@@ -14,8 +14,8 @@ At the beginning of 2021, I made a tough choice.  I deleted all of my social med
 
 ### deleting my personal life
 
-> "You can't tell people what to think, but you can tell them what to think about"
-> - Anonymous Professor (UNCG, 2012)
+> *"You can't tell people what to think, but you can tell them what to think about"*
+> A UNCG Professor, 2012
 
 It was during this process of deleting accounts for my big 3 (Facebook, Twitter, Instagram) that I realized how many other apps were sharing data.  All my music apps, like SoundCloud and Spotify, used Facebook to login, and all my news outlets were linked to Google accounts.  I had authorized super sensitive data, like exercise and health information, to be shared with Facebook for over seven years.  Most terrifying of all is that Facebook was using this data to select ads I **actually clicked on**.  If the little me living in the year 2000 had seen what I gave away for mere convenience, they would cry. 
 
@@ -27,8 +27,8 @@ Most incredibly, the groundwork was laid by the U.S. Government almost 50 years 
 
 ### the people's plea for restraint
 
-> "We can safely say there is no law in this country to justify the defendants in what they have done; if there was, it would destroy all the comforts of society, for papers are often the dearest property any man can have."
-> - Lord Camden, when speaking on a warrant to seize papers from a British home in 1765.
+> *"We can safely say there is no law in this country to justify the defendants in what they have done; if there was, it would destroy all the comforts of society, for papers are often the dearest property any man can have."*
+> Lord Camden, when speaking on a warrant to seize papers from a British home in 1765.
 
 In the 1970s, privacy advocates began pressuring the Government and Private Industry to protect our data from harms and threats that didn't even exist yet. In 1973, FIPs successfully lobbied for the U.S. Department of Health, Education, and Welfare to create "Fair Information Practice (FIPs) Principles".  Ever since 1973, all FIPs have been comprised of four central concepts:
 1. Rights of Individuals: Providing notice, choice, consent, and data subject access to all users.
@@ -44,8 +44,8 @@ One of the most popular concepts nested under FIPs principles is "Data Portabili
 
 ### re-entering the public view
 
-> "Why come back?  Because it's different when you own the data."
-> - Me.
+> *"Why come back?  Because it's different when you own the data."*
+> Me.
 
 Little Robert never dreamed that the internet would become our most important connection to the world, but that's what happened during the Information Age.  I gave away details about myself to become closer to my friends, and there shouldn't be anything wrong with that.  I willing shared myself with the world, just as I'm doing now.  **How is this time different?** No Terms of Agreement; no anonymous comments; no character limits; and no expectations.  
 
