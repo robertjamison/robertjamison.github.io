@@ -4,6 +4,17 @@ title: "About"
 author_profile: false
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+![A picture of the Jamisons, bonded by blood and common patriotism](/assets/images/jamisons.jpeg "The Jamisons")
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hiya, I'm Robert Jamison.  I created OnlyData as a place to record my personal discoveries while working in computer science and signals theory.  I documented my life via a written diary until I realized my life was already 100% online. By shifting to a blog-style diary, I'm sharing my life with other like-minded weirdos.  Hopefully, as I put myself out there, I'll inspire others to do the same.
+
+Although I dedicate most of my time to work, I still enjoy some of the small things in life. My list of hobbies is a lot smaller now, but here's some of the activities I do on a yearly basis:
+* Brewing honey wines, meads, and European coffee
+* Hunting for real and fake wildlife
+* Exploring the wilderness of foreign lands
+* Cooking foods that I have no business eating
+* Reading books about data analytics and signal theory
+* Jogging for no more than two miles on a given day
+* Testing First-person shooter video games
+* Drawing birds outside my livingroom window
+* Growing grass in my mudpit of a backyard
