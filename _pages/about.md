@@ -6,7 +6,7 @@ author_profile: false
 
 ![A picture of the Jamisons, bonded by blood and common patriotism](/assets/images/jamisons.jpeg "The Jamisons")
 
-Hiya, I'm Robert Jamison.  I created OnlyData as a place to record my personal discoveries while working in computer science and signals theory.  I documented my life via a written diary until I realized my life was already 100% online. By shifting to a blog-style diary, I'm sharing my life with other like-minded weirdos.  Hopefully, as I put myself out there, I'll inspire others to do the same.
+Hiya, I'm Robert Jamison.  That's my mom and I in the picture above.  She's got her own site too, but this site is mainly for me. She and I joined the Army about the same time in 2007, and ever since, I've been working with laptops, radios, and satellite terminals. I created OnlyData as a place to record my personal discoveries while working in computer science and signals theory.  I had been documenting my life via a written diary until one day I realized my life was already 100% online. By shifting to a blog-style diary, I hope to share my life lessons with other like-minded weirdos.  Hopefully (as I put myself out there) I'll inspire others to do the same.
 
 Each day of the week, I post something different using a vignette:
 1. Motivation Monday - Fascinating and mind-altering stories about important nobodies of history.
