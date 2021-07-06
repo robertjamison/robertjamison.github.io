@@ -11,6 +11,7 @@ Hiya, I'm Robert Jamison.  That's [my mom](https://jamisonfactor.com) and I in t
 ---
 
 Each day of the week, I post something different using a vignette:
+
 **Motivation Monday**
 > Fascinating and mind-altering stories about important nobodies of history.
 
