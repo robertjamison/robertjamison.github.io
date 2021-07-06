@@ -12,19 +12,19 @@ Hiya, I'm Robert Jamison.  That's [my mom](https://jamisonfactor.com) and I in t
 
 Each day of the week, I post something different using a vignette:
 1. Motivation Monday
-  > Fascinating and mind-altering stories about important nobodies of history.
+   > Fascinating and mind-altering stories about important nobodies of history.
 2. Twosday
-> Two different but similar concepts.  A true free-for-all.
+   > Two different but similar concepts.  A true free-for-all.
 3. Wacky Wednesday
-> Something odd that happened during this week long ago.
+   > Something odd that happened during this week long ago.
 4. Threat Thursday
-> Malicious cyber and signal actors of interest.
+   > Malicious cyber and signal actors of interest.
 5. Fast-Fact Friday
-> A short and sweet truth.
+   > A short and sweet truth.
 6. Sojourner Saturday
-> A guest author writes because I'm only creative enough for six days a week.
+   > A guest author writes because I'm only creative enough for six days a week.
 7. Science Sunday
-> In-depth computer science concepts based on what I'm researching that week.
+   > In-depth computer science concepts based on what I'm researching that week.
 
 ---
 
