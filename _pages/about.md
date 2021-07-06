@@ -12,7 +12,7 @@ Hiya, I'm Robert Jamison.  That's [my mom](https://jamisonfactor.com) and I in t
 
 Each day of the week, I post something different using a vignette:
 1. Motivation Monday
- > Fascinating and mind-altering stories about important nobodies of history.
+  > Fascinating and mind-altering stories about important nobodies of history.
 2. Twosday
 > Two different but similar concepts.  A true free-for-all.
 3. Wacky Wednesday
