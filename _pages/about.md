@@ -13,16 +13,22 @@ Hiya, I'm Robert Jamison.  That's [my mom](https://jamisonfactor.com) and I in t
 Each day of the week, I post something different using a vignette:
 **Motivation Monday**
 > Fascinating and mind-altering stories about important nobodies of history.
+
 **Twosday**
 > Two different but similar concepts.  A true free-for-all.
+
 **Wacky Wednesday**
 > Something odd that happened during this week long ago.
+
 **Threat Thursday**
 > Malicious cyber and signal actors of interest.
+
 **Fast-Fact Friday**
 > A short and sweet truth.
+
 **Sojourner Saturday**
 > A guest author writes because I'm only creative enough for six days a week.
+
 **Science Sunday**
 > In-depth computer science concepts based on what I'm researching that week.
 
