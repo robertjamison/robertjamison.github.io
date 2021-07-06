@@ -1,10 +1,10 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Goodbye Privacy, Hello World"
+date: 2021-07-06T18:00:00-00:00
 categories:
   - blog
 tags:
-  - Jekyll
+  - 
   - update
 ---
 
