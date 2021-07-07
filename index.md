@@ -1,2 +1,1 @@
-## Finally
-A site where you know what you are getting.
+Finally, site where you know what you are getting.
