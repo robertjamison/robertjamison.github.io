@@ -1,6 +1,6 @@
 ---
 title: "Bye Privacy, Hello World"
-date: 2021-07-06T18:00:00-00:00
+date: 2021-07-06T21:00:00-00:00
 categories:
   - Twosday
 tags:
@@ -14,7 +14,7 @@ At the beginning of 2021, I made a tough choice.  I deleted all of my social med
 
 ### Deleting My Personal Life
 
-> *"You can't tell people what to think, but you can damn well tell them what to think about"*
+> *"You can NEVER tell people what to think, but you can ALWAYS tell them what to think about"*
 > 
 > One of my UNCG Professors, 2012
 
