@@ -37,6 +37,7 @@ In the 1970s, [privacy advocates began pressuring the Government and Private Ind
 2. Controls on Information: Establishing information security and quality restrictions.
 3. Information Life Cycle: Determining how data is collected, used, retained, and disclosed.
 4. Management: Assigning responsibility, accountability, monitoring, and enforceability
+
 *NOTE: From Dr. Peter Swire's book, ["U.S. Private-Sector Privacy"](https://iapp.org/resources/article/u-s-private-sector-privacy-third-edition/)*
 
 In the 1970s, the creators of these principles had not yet encountered Artificial Intelligence or Machine Learning, but they understood that spirit of data could be abused.  If one organization could be blamed for inspiring privacy advocates in the 21st Century, it would be the Pinkertons, who [created the first criminal database in the mid-1800s](https://pinkerton.com/our-story/history). Their ability to extrapolate wrongdoing using hand-written spreadsheets led to them becoming the premiere criminal investigation contractor with the U.S. government, and they were the first to expose Americans to the risks of poor data protections.
