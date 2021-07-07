@@ -6,7 +6,7 @@ author_profile: false
 
 ![A picture of the Jamisons, bonded by blood and common patriotism](/assets/images/jamisons.jpeg "The Jamisons")
 
-Hiya, I'm Robert Jamison.  That's [my mom](https://jamisonfactor.com) and I in the picture above. She and I joined the Army about the same time in 2007, and ever since, I've been working with laptops, radios, and satellite terminals. I created OnlyFacts as a place to record my personal discoveries while working in computer science and signals theory.  I had been documenting my life via a written diary until one day I realized my life was already 100% online. By shifting to a blog-style diary, I hope to share my life lessons with other like-minded weirdos.  Hopefully (as I put myself out there) I'll inspire others to do the same.
+Hiya, I'm Robert Jamison.  That's [my mom](https://jamisonfactor.com) and I in the picture above. We both joined the Army National Guard about the same time in 2007, and ever since, I've been working full-time with laptops, radios, and satellite terminals. I created OnlyFacts as a place to record my personal discoveries while working in computer science and signals theory.  I had been documenting my life via a written diary until one day I realized my life was already 100% online. By shifting to a blog-style diary, I hope to share my life lessons with other like-minded weirdos.  Hopefully (as I put myself out there) I'll inspire others to do the same.
 
 ---
 
