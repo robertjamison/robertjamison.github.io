@@ -10,7 +10,7 @@ tags:
 
 ![Bye Privacy, Hello World](/assets/images/2021-07-06.jpeg "Bye Privacy, Hello World")
 
-At the beginning of 2021, I made a tough choice.  I deleted all of my social media accounts and news apps except one -- LinkedIn.  I didn't make an announcement or notify close friends.  I just did it.  The catalyst for my decision was the proliferation of influence techniques I was seeing online.  My earlier degree in journalism (e.g. media studies) taught me valuable lessons which I took to heart.  Our Country was in turmoil, and I didn't want my personal views to be the first casualties. **But now I'm making a blog?**
+At the beginning of 2021, I made a tough choice.  I deleted all of my social media accounts and news apps except one -- [LinkedIn](https://www.linkedin.com/in/robertgjamison).  I didn't make an announcement or notify close friends.  **I just did it**.  The catalyst for my decision was [the proliferation of influence techniques](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7343248/) I was seeing online.  My earlier degree in journalism (e.g. [media studies](https://mediastudies.uncg.edu/)) taught me valuable lessons, which I took to heart.  Our Country was in turmoil, and I didn't want my personal views to be the first casualties. **But now I'm making a blog?**
 
 ### Deleting My Personal Life
 
@@ -32,13 +32,14 @@ Most incredibly, the groundwork was laid by the U.S. Government almost 50 years 
 > 
 > Lord Camden, when speaking on a warrant to seize papers from a British home in 1765.
 
-In the 1970s, privacy advocates began pressuring the Government and Private Industry to protect our data from harms and threats that didn't even exist yet. In 1973, FIPs successfully lobbied for the U.S. Department of Health, Education, and Welfare to create "Fair Information Practice (FIPs) Principles".  Ever since 1973, all FIPs have been comprised of four central concepts:
+In the 1970s, [privacy advocates began pressuring the Government and Private Industry to protect our data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2415020) from harms and threats that didn't even exist yet. In 1973, FIPs successfully lobbied for the U.S. Department of Health, Education, and Welfare to create ["Fair Information Practice (FIPs) Principles"](https://aspe.hhs.gov/report/studies-welfare-populations-data-collection-and-research-issues/fair-information-practices).  Ever since 1973, all FIPs have been comprised of four central concepts:
 1. Rights of Individuals: Providing notice, choice, consent, and data subject access to all users.
 2. Controls on Information: Establishing information security and quality restrictions.
 3. Information Life Cycle: Determining how data is collected, used, retained, and disclosed.
 4. Management: Assigning responsibility, accountability, monitoring, and enforceability
+*NOTE: From Dr. Peter Swire's book, ["U.S. Private-Sector Privacy"](https://iapp.org/resources/article/u-s-private-sector-privacy-third-edition/)*
 
-In the 1970s, the creators of these principles had not yet encountered Artificial Intelligence or Machine Learning, but they understood that spirit of data could be abused.  If any organization could be championed for inspiring privacy advocates in the 21st Century, it would be the Pinkertons, who created the first intelligence database in the mid-1800s.
+In the 1970s, the creators of these principles had not yet encountered Artificial Intelligence or Machine Learning, but they understood that spirit of data could be abused.  If one organization could be blamed for inspiring privacy advocates in the 21st Century, it would be the Pinkertons, who [created the first criminal database in the mid-1800s](https://pinkerton.com/our-story/history). Their ability to extrapolate wrongdoing using hand-written spreadsheets led to them becoming the premiere criminal investigation contractor with the U.S. government, and they were the first to expose Americans to the risks of poor data protections.
 
 But let's get back to how I downloaded my life in under an hour.
 
