@@ -16,6 +16,7 @@ If this was you, then your name was likely
 
 ### Jonas P. Fairlamb.
 > *“Patents are not forever, but inventions are”*
+> 
 > Kalyan C. Kankanala
 
 Our subject today was a wacky member of the patent peddlers, the docu-dreamers, and the bureaucratic builders -- an inventor.  Jonas Fairlamb, was wacky for two reasons.  One: He came up with crazy ideas that were in seemingly unrelated industries.  Two: Someone bought all his idea and made them somehow.  Only one of his patents is truly notable, and we'll touch on it in a second.  Jonas first invention was recorded in 1823 when he patented a new type of canal lock. Later in his career, he would also invent a new method of cutting crackers (1831) and [a machine that splits an entire hide for leather (1847)](http://genealogytrails.com/del/patents.html).  However, these are not the patents that Mr. Fairlamb is known for.  His most prized patent is also one of his simplest -- a turntable.
@@ -24,6 +25,7 @@ The drawing is not much; just a series of lines and circles. But how did somethi
 
 ### The Turning Test
 > *"Well, well well. How the table have turned."*
+> 
 > Michael Scott, during an episode of *The Office*
 
 In 1830, trains and trollies had a big problem.  In order to reverse a railed vehicle's direction, a conductor required a quarter-mile loop of track -- something that was quite expensive from a real estate perspective.  In fact, railroad switches weren't even patented until 1832.  Most inventors were looking for a way to increase the selection of tracks a train procession could access, but Jonas saw a different problem -- *space*.  Many of the trains needed to be covered during bad weather and maintenance, and the overlapping track designs required to get engines into buildings were expansive and complex.  Jonas' first invention, a canal lock, had prepared him to think outside the box regarding transport mediums (e.g. water, land, air).  
