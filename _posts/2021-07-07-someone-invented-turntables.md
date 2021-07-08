@@ -24,7 +24,7 @@ Our subject today was a wacky member of the patent peddlers, the docu-dreamers, 
 The drawing is not much; just a series of lines and circles. But how did something so elementary become more than just a drawing?  Why did railroads buy it?
 
 ### The Turning Test
-> *"Well, well well. How the table have turned."*
+> *"Well, well well. How the turntables have turned."*
 > 
 > Michael Scott, during an episode of *The Office*
 
