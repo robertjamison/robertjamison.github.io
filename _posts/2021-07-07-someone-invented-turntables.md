@@ -20,7 +20,7 @@ If this was you, then your name was likely
 > Kalyan C. Kankanala
 
 Our subject today was a wacky member of the patent peddlers, the docu-dreamers, and the bureaucratic builders -- an inventor.  Jonas Fairlamb, was wacky for two reasons.  One: He came up with crazy ideas that were in seemingly unrelated industries.  Two: Someone bought all his idea and made them somehow.  Only one of his patents is truly notable, and we'll touch on it in a second.  Jonas first invention was recorded in 1823 when he patented a new type of canal lock. Later in his career, he would also invent a new method of cutting crackers (1831) and [a machine that splits an entire hide for leather (1847)](http://genealogytrails.com/del/patents.html).  However, these are not the patents that Mr. Fairlamb is known for.  His most prized patent is also one of his simplest -- a turntable.
-![Drawings from the Turntable Patent]((/assets/images/2021-07-07a.jpeg "Drawings from the Turntable Patent")
+![Drawings from the Turntable Patent](/assets/images/2021-07-07a.jpeg "Drawings from the Turntable Patent")
 The drawing is not much; just a series of lines and circles. But how did something so elementary become more than just a drawing?  Why did railroads buy it?
 
 ### The Turning Test
